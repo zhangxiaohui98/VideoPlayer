@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sel_file"
+        android:title="扫描文件"/>
+    <item
+        android:id="@+id/sel_video"
+        android:title="选择视频"/>
+    <item
+        android:id="@+id/proceed"
+        android:title="继续播放"/>
+    <item
+        android:id="@+id/set"
+        android:title="一键退出"/>
+</menu>
